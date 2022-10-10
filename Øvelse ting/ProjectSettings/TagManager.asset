@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - grenades
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background back
+    uniqueID: 3667830771
+    locked: 0
+  - name: Background mid 1
+    uniqueID: 3661628579
+    locked: 0
+  - name: Background mid 2
+    uniqueID: 1305957803
+    locked: 0
+  - name: Background front
+    uniqueID: 1825411351
+    locked: 0
+  - name: Terrain
+    uniqueID: 2508138627
+    locked: 0
+  - name: Props
+    uniqueID: 3596011267
+    locked: 0
+  - name: Items
+    uniqueID: 565578503
+    locked: 0
+  - name: Player
+    uniqueID: 4140597689
+    locked: 0
